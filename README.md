@@ -15,7 +15,6 @@ You can install these libraries using the following command:
 
 ```
 pip install requests tqdm
-
 ```
 
 ## Usage
